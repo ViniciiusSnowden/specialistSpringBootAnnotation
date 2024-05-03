@@ -24,5 +24,11 @@ Ela tem que atender uns padrão para ser REST API.
 
 Esse conceito será abordado nas aulas mais a frente.
 
+Exemplo de api
 
+IFOOD
+
+GOV.BR
+
+enotas para notificais
 
