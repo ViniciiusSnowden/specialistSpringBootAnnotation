@@ -7,3 +7,7 @@ dependências:
 
 Spring web Starter 
 gerenciador de dependências maven
+
+
+
+Projeto spring criado como projeto foodInsta
