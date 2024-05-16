@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "Springboot"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
