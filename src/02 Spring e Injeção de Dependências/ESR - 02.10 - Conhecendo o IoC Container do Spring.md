@@ -1,0 +1,1 @@
+No Spring Framework, você pode definir beans (objetos gerenciados pelo container IoC) em um arquivo de configuração XML, em classes Java com anotações específicas ou através de configuração baseada em Java. O container Spring então injeta as dependências nos objetos conforme necessário, com base nas configurações fornecidas.

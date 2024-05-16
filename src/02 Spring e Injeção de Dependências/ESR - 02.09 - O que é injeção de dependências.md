@@ -45,9 +45,7 @@ public class NotificationService {
     }
 }
 
-´´
 
-``
 import org.springframework.context.annotation.*;
 
 // Configuração do Spring
@@ -72,8 +70,8 @@ public class AppConfig {
         return new NotificationService(messageService);
     }
 }
+``
 
-´´
 
 
 
@@ -92,7 +90,3 @@ public class Main {
 }
 
 
-
-
-
-``
