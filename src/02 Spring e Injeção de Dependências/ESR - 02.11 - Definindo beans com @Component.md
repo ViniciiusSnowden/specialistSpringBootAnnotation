@@ -5,4 +5,4 @@ momento tudo isso para facilitar o reuso pela seus contratos.
 
 
 
-faltou criar a classes!!!
+Nessa aula eu criei as classes e injetei o lombok para evitar criar os métodos de acessos e agilizar o processo.

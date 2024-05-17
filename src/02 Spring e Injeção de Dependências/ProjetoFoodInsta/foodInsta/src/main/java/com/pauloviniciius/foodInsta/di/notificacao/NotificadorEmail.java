@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 public class NotificadorEmail {
 
     public void notificar(Cliente cliente, String mensagem){
-        System.out.printf("Notificacao %s atraves do e-mail %s : %",
+        System.out.printf("Notificação %s através do e-mail %s : %",
                 cliente.getNome(), cliente.getEmail(), mensagem);
 
     }
